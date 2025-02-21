@@ -17,4 +17,4 @@ git add .
 git commit -m "$MESSAGE"
 
 # Push to main branch
-git push -u origin main
+git push -u origin main --force
